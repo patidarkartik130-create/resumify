@@ -3,7 +3,7 @@ import TemplateSelector from "../components/TemplateSelector";
 import { Helmet } from "react-helmet-async";
 
 const Templates = () => {
-  const currentUrl = `${window.location.origin}${window.location.pathname}`;
+  const currentUrl = "https://www.resumify.co.in/templates";
   return (
     <>
       <Helmet>

@@ -19,7 +19,7 @@ const Home = () => {
       }
     }
   }, []);
-  const currentUrl = `${window.location.origin}${window.location.pathname}`;
+  const currentUrl = "https://www.resumify.co.in/";
   return (
     <>
       {" "}
